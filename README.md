@@ -20,7 +20,7 @@ Se você tem sede de aprender enquanto muda a história da educação no Brasil,
 
 ## Vagas abertas
 
-  - [Desenvolvedor (Júnior e Sênior), Full-Stack](/geekie/hiring/blob/master/engineer_full-stack.md)
+  - [Desenvolvedor (Júnior e Sênior), Full-Stack](engineer_full-stack.md)
 
 
 ## Interessado?
