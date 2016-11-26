@@ -20,4 +20,9 @@ Se você tem sede de aprender enquanto muda a história da educação no Brasil,
 
 ## Vagas abertas
 
-  - Desenvolvedor (Júnior e Sênior), Full-Stack
+  - [Desenvolvedor (Júnior e Sênior), Full-Stack](/geekie/hiring/blob/master/engineer_full-stack.md)
+
+
+## Interessado?
+
+Envie seu currículo para nosso Workable! https://geekiebr.workable.com/
