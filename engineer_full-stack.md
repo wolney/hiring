@@ -1,6 +1,8 @@
 # Desenvolvedor (Júnior e Sênior), Full-Stack
 
-A Geekie é uma empresa jovem e ambiciosa movida pelo sonho de transformar a educação do Brasil por meio da tecnologia. Nossa missão é oferecer aprendizado personalizado para todos, e nosso trabalho já impactou milhares alunos permitindo que eles de fato aprendam! O time de programadores da Geekie conta com pessoas que tiveram passagem por empresas como Google, Facebook e Microsoft. Buscamos pessoas com iniciativa, que queiram crescer com a empresa e se identifiquem com nossa causa. A oportunidade tem como missão desenvolver e arquitetar aplicações web e serviços confiáveis e que suportem milhões de usuários ativos, colaborando com os gerentes de produto, designers e outros engenheiros.
+A Geekie é uma empresa jovem e ambiciosa movida pelo sonho de transformar a educação do Brasil por meio da tecnologia. Nossa missão é oferecer aprendizado personalizado para todos, e nosso trabalho já impactou milhares alunos permitindo que eles de fato aprendam!
+
+O time de programadores da Geekie conta com pessoas que tiveram passagem por empresas como Google, Facebook e Microsoft. Buscamos pessoas com iniciativa, que queiram crescer com a empresa e se identifiquem com nossa causa. A oportunidade tem como missão desenvolver e arquitetar aplicações web e serviços confiáveis e que suportem milhões de usuários ativos, colaborando com os gerentes de produto, designers e outros engenheiros.
 
 
 ## Perfil desejado
