@@ -31,3 +31,7 @@ O time de programadores da Geekie conta com pessoas que tiveram passagem por emp
   - Plano de saúde e odontológico
   - Seguro de vida
   - Vale-Refeição e Vale-Transporte
+
+## Interessado?
+
+Envie seu currículo para nosso Workable! https://geekiebr.workable.com/jobs/9401
