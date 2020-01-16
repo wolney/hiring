@@ -1,1 +1,1 @@
-Envie seu currículo para nosso Workable! https://geekiebr.workable.com/
+Envie seu currículo para nosso vagas-eng@geekie.com.br!
